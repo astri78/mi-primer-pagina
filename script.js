@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "¡Esa no es la respuesta!",
         "¡Ya te dije que no!",
         "¡No es esa, baboso!",
-        "¡Ya dije que no!",
+        "¡Ya dije que no es esa la respuesta!",
         "¡Eres necio!"
     ];
 
